@@ -13,8 +13,6 @@ intents = discord.Intents.default()
 intents.messages = True
 intents.guilds = True
 
-meow = commands.Bot(command_prefix=".", intents=intents, help_command=None)
-
 
 async def ensure_folders():
     if not os.path.exists("output"):
