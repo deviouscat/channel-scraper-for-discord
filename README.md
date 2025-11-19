@@ -1,4 +1,4 @@
-# Discord Attachment Scraper
+# Discord Attachment Scraper | Educational Purposes Only |
 
 This is a small Python tool that lets you scrape images, videos, and other attachments from a Discord channel your user has access to. It runs in the terminal, asks what you want to scrape, and then pulls everything from newest to oldest while showing a clean progress bar.
 
